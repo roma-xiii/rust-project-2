@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "common",
+  "quote_server",
+  "quote_client",
+]
+resolver = "2"
